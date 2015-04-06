@@ -17,7 +17,7 @@
 			<a href="" id="nav-toggle">Sidebar</a>
 		</div>
 
-		<a href="/" class="navbar__logo">LondonStudent</a>
+		<a href="/" class="navbar__logo"><img src="wp-content/themes/londonstudent/logo.svg" onerror="this.src='wp-content/themes/londonstudent/logo.png'"></a>
 
 		<ul class="navbar__right">
 				<li><a href="#">Search?</a></li>
